@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Naitik6803
-- 👀 I’m interested in Cross Platform app development.
+- 👀 I’m interested in Machine Learning and want my career in this field.
 - 🌱 I’m currently learning Computer Science and Engineering
-- 💞️ I’m looking to collaborate on web development.
+- 💞️ I’m looking to collaborate on web development or app development.
 - 📫 My instagram id : naitik.6803
 - 
 
