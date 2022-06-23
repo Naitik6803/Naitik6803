@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning and data science.
 - 🌱 I’m currently learning Computer Science and Engineering
 - 💞️ I’m looking to collaborate on web development and ML projects.
-- 📫 My instagram id : naitik.6803
+-
  
 
 <!---
